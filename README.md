@@ -1,6 +1,6 @@
 # Vue + Bower Example
 
-A simple setup using [Gulp](http://gulpjs.com), [Bower](http://github.com/bower/bower) together with [Vue.js](http://vuejs.org) for modular UI development.
+A simple setup using [Gulp](http://gulpjs.com) & [Bower](http://github.com/bower/bower) together with [Vue.js](http://vuejs.org) for modular development.
 
 This is a port of [vue-component-example](http://github.com/vuejs/vue-component-example), but with Component replaced by Bower.
 
@@ -35,4 +35,4 @@ This will watch files for change and re-build automatically.
 
 ### Thanks
 
-Thanks to [Even You](https://github.com/yyx990803) for [Vue.js](http://vuejs.org), [Bower Team](http://bower.io/#bower-team) for [Bower](http://bower.io) & [Fractal](http://wearefractal.com/) for [Gulp](http://gulpjs.com/)
+Thanks to [Even You](https://github.com/yyx990803) for [Vue.js](http://vuejs.org), [Bower Team](http://bower.io/#bower-team) for [Bower](http://bower.io) & [Fractal](http://wearefractal.com/) for [Gulp](http://gulpjs.com/).
