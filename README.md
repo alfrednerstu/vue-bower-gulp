@@ -35,4 +35,4 @@ This will watch files for change and re-build automatically.
 
 ### Thanks
 
-Thanks to [Even You](https://github.com/yyx990803) for creating [Vue.js](http://vuejs.org), [Bower Team](http://bower.io/#bower-team) for creating [Bower](http://bower.io) & [Fractal](http://wearefractal.com/) for creating [Gulp](http://gulpjs.com/)
+Thanks to [Even You](https://github.com/yyx990803) for [Vue.js](http://vuejs.org), [Bower Team](http://bower.io/#bower-team) for [Bower](http://bower.io) & [Fractal](http://wearefractal.com/) for [Gulp](http://gulpjs.com/)
