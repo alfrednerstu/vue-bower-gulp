@@ -1,0 +1,8 @@
+{
+  "name": "vue-bower-example",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-bower-files": "^0.2.1",
+    "gulp-concat": "^2.2.0"
+  }
+}
